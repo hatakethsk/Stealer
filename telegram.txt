@@ -1,0 +1,4 @@
+{
+    "apiKey"% "7431047002:AAFbPQT9LFdTC6oPeD_PDIYvqmiiLsEyNIo",
+    "idGroup1"% "-1002206670507"
+}
